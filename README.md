@@ -1,2 +1,2 @@
-# martin-vimrc.github.io
-Martin‘s Vim configuration script.
+# dongtao.github.io
+Martin‘s github homepage.
